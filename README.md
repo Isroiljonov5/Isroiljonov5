@@ -1,64 +1,82 @@
-<h1 align="center">👨‍💻 Isroiljonov Biloldin</h1>
-<h3 align="center">I'm a passionate Python Backend Developer</h3>
+<h1 align="center">Hi, I'm Isroiljonov Biloldin 👋</h1>
+<h3 align="center">Backend Developer | Python & Django Enthusiast</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+Lover;Django+Expert;Clean+Code+Advocate" alt="Typing SVG" />
 </div>
 
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,ts,nodejs,html,css,postgres,mysql,git,linux,bash&theme=light" />
+</div>
+
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently working on Django-based backend APIs and automation tools.
+- 🌱 Currently revising core Python, learning advanced backend architectures.
+- 💬 Ask me about: `Python`, `Django`, `FastAPI`, `PostgreSQL`, `Linux`.
+- 📫 How to reach me: isroiljonovbiloldin@gmail.com
+- ⚡ Fun fact: I love writing CLI tools and API wrappers in Python.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biloldin&show_icons=true&hide_border=true&theme=radical&custom_title=Biloldin's+Stats" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=biloldin&theme=radical&hide_border=true" width="47%" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&width=600&lines=Assalomu+alaykum%2C+men+Isroiljonov+Biloldin!;Backend+developer+man.;Python%2C+Django%2C+DRF%2C+PostgreSQL+%2C+va+JSON+API+ustasiman.;Yuqori+darajadagi+kod+va+arxitektura+yozaman!;Xush+kelibsiz+profilimga!+😊" alt="Typing SVG" />
+  <img src="https://github-profile-trophy.vercel.app/?username=biloldin&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
 
-## 🧠 Biladigan tillarim:
+### ✨ GitHub Level (Stars Rating)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,git,html,css,js,bootstrap,linux" alt="My Skills" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biloldin&layout=compact&hide_border=true&theme=radical&langs_count=8" />
+  <br>
+  <b>GitHub Grade: <span style="color:lime;font-weight:bold">A+</span></b>
 </div>
 
 ---
 
-## 📊 GitHub Statistika
+### 🛠 Languages I Use
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isroiljonov5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Biloldin's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isroiljonov5&theme=tokyonight&hide_border=true" alt="Biloldin's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isroiljonov5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 </div>
 
 ---
 
-## ⭐ GitHub darajam
+<details>
+  <summary>👨‍💻 More about Isroiljonov Biloldin</summary>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isroiljonov5&theme=tokyonight" />
-</div>
+  - 🔹 Backend developer based in Uzbekistan 🇺🇿
+  - 🔹 Experienced with REST APIs, DB design, and server deployment
+  - 🔹 Always striving for clean, scalable and secure code
+
+</details>
 
 ---
 
-## 🌐 Muloqot uchun
-
+<!-- Snow background animation (simple CSS-based) -->
 <p align="center">
-  <a href="mailto:biloldinisroiljonov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-## 💻 Monitoring fon (qor o‘rniga zamonaviy animatsiya)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</div>
-
----
-
-## 🌊 Tolqinli banner
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Rahmat+Profilimga+Kirganingiz+uchun!&fontSize=20&fontColor=ffffff" />
-</div>
