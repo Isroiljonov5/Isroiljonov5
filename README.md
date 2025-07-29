@@ -1,20 +1,32 @@
 <h1 align="center">Hi 👋, I'm Isroiljonov Biloldin</h1>
-<h3 align="center">🐍 Python & Fullstack Developer | Clean Code Fanati | From Uzbekistan</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD2&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%F0%9F%9A%80;Expert+in+Python+%26+Django+%F0%9F%94%A5;JavaScript%2C+HTML%2C+CSS+Pro;REST+API+Builder;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=500&lines=Full-Stack+Developer;Backend+Engineer;Python+%7C+Django+%7C+API+%7C+JS+%7C+HTML+%7C+CSS;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🧠 About Me
+
+- 🔭 I’m currently working on: **RESTful APIs with Django**
+- 💼 Focused on: **Backend architecture and clean code**
+- 🌐 Tech Stack:
+  - Python, Django, DRF
+  - HTML5, CSS3, JavaScript (Vanilla)
+  - PostgreSQL, SQLite
+- 🚀 Always learning & improving
+
+---
+
+### 🚀 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/Isroiljonov_05" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" />
-  </a>
   <a href="https://github.com/Isroiljonov5" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Isroiljonov5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://t.me/Isroiljonov_05" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Isroiljonov__05-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
@@ -23,45 +35,42 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isroiljonov5&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&border_radius=0&hide_title=false" width="700" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isroiljonov5&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isroiljonov5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
 </p>
+
+---
+
+### ⭐ GitHub Star Level
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isroiljonov5&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="500" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Stars-Level%20B-%23FFD700?style=for-the-badge&logo=star" alt="GitHub Star Grade"/>
 </p>
 
 ---
 
-### 💻 Technologies & Tools
+<details>
+  <summary><b>✨ More about Isroiljonov Biloldin</b></summary>
+  <br/>
+  - 🧑‍💻 I enjoy creating efficient and elegant solutions<br/>
+  - 📚 I love contributing to open-source projects<br/>
+  - 🛠️ Passionate about developer productivity<br/>
+</details>
+
+---
+
+### 🖥️ My Stack Showcase (Click Logos)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🔭 Currently building fullstack Django & API-based apps  
-- 🎯 Focused on clean backend architecture and intuitive frontend interfaces  
-- 📚 Passionate about lifelong learning & teamwork  
-- 📬 Message me anytime on Telegram: [@Isroiljonov_05](https://t.me/Isroiljonov_05)
-
----
-
-### 🌟 Quote I Live By
-
-> _"Write code as if the next person who has to read it knows nothing… and that person is you."_ ✨
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Isroiljonov5/Isroiljonov5/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
