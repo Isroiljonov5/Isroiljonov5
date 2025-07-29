@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Isroiljonov Biloldin</h1>
-<h3 align="center">🐍 Python & Fullstack Developer | Clean code enthusiast</h3>
+<h3 align="center">🐍 Python & Fullstack Developer | Clean Code Fanati | From Uzbekistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer+from+Uzbekistan;Writing+clean+code+and+powerful+APIs;Building+fullstack+web+apps+with+Django+%26+JS;Always+learning%2C+always+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD2&center=true&vCenter=true&width=700&lines=Fullstack+Developer+%F0%9F%9A%80;Expert+in+Python+%26+Django+%F0%9F%94%A5;JavaScript%2C+HTML%2C+CSS+Pro;REST+API+Builder;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://t.me/Isroiljonov_05" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" alt="Telegram" />
   </a>
   <a href="https://github.com/Isroiljonov5" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -23,43 +23,42 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isroiljonov5&show_icons=true&theme=radical&hide_title=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isroiljonov5&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&border_radius=0&hide_title=false" width="700" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isroiljonov5&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isroiljonov5&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="500" alt="Top Languages" />
 </p>
 
 ---
 
-### 💻 Tech Stack & Skills
+### 💻 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on API-based Django fullstack projects  
-- 🧩 I focus on clean, scalable backend and user-friendly frontend  
-- 📚 Always exploring new tools, libraries, and best practices  
-- 📬 Reach out on Telegram if you're working on something cool!
+- 🔭 Currently building fullstack Django & API-based apps  
+- 🎯 Focused on clean backend architecture and intuitive frontend interfaces  
+- 📚 Passionate about lifelong learning & teamwork  
+- 📬 Message me anytime on Telegram: [@Isroiljonov_05](https://t.me/Isroiljonov_05)
 
 ---
 
-### ✨ Favorite Quote
+### 🌟 Quote I Live By
 
-> *"Code is poetry. Make it readable."*
+> _"Write code as if the next person who has to read it knows nothing… and that person is you."_ ✨
 
 ---
 
