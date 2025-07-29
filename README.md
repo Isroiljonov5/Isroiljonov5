@@ -1,45 +1,64 @@
-<!-- Profil banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Assalomu+alaykum!+I'm+Isroiljonov+Biloldin+👋;Python+Backend+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</h1>
+<h1 align="center">👨‍💻 Isroiljonov Biloldin</h1>
+<h3 align="center">I'm a passionate Python Backend Developer</h3>
 
-<!-- Tech stack animatsiyali tugmalar -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
+</div>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,javascript,nodejs,html,css,postgres,mysql,git&theme=light" alt="Tech stack icons" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&width=600&lines=Assalomu+alaykum%2C+men+Isroiljonov+Biloldin!;Backend+developer+man.;Python%2C+Django%2C+DRF%2C+PostgreSQL+%2C+va+JSON+API+ustasiman.;Yuqori+darajadagi+kod+va+arxitektura+yozaman!;Xush+kelibsiz+profilimga!+😊" alt="Typing SVG" />
 </p>
 
-<!-- Github Stats with star-level -->
+---
+
+## 🧠 Biladigan tillarim:
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isroiljonov5&show_icons=true&theme=radical&hide_border=true&border_radius=0&include_all_commits=true" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isroiljonov5&layout=compact&hide_border=true&theme=radical" width="48%" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,git,html,css,js,bootstrap,linux" alt="My Skills" />
 </div>
 
-<!-- Star darajasi -->
-<h3 align="center">⭐ GitHub Star Level: <span style="font-size: 30px;">S+ (Super Star)</span></h3>
+---
 
-<!-- Animated snow effect -->
-<div align="center" style="position:relative; z-index: 1;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+## 📊 GitHub Statistika
 
-<!-- Floating tech tags inside waves -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=I%20Love%20Code!&fontAlign=50&fontAlignY=40&color=gradient&desc=Backend%20with%20Python%20%7C%20FastAPI%20%7C%20Django%20%7C%20SQL&descAlign=50&descAlignY=65" alt="Wave banner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isroiljonov5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Biloldin's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isroiljonov5&theme=tokyonight&hide_border=true" alt="Biloldin's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isroiljonov5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
-<!-- About section collapsible -->
-<details>
-  <summary><strong>More about me 👇</strong></summary>
-  <ul>
-    <li>👨‍💻 Ismi: <strong>Isroiljonov Biloldin</strong></li>
-    <li>💻 Backend mutaxassisi (Python, Django, FastAPI)</li>
-    <li>🛠️ Shuningdek: JavaScript, HTML, CSS, PostgreSQL, Git</li>
-    <li>🎯 Maqsad: Qattiq backend yechimlar yaratish</li>
-    <li>🌍 Manzil: O‘zbekiston</li>
-  </ul>
-</details>
+---
 
-<!-- Footer -->
+## ⭐ GitHub darajam
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isroiljonov5&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Muloqot uchun
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isroiljonov5&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="mailto:biloldinisroiljonov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
+---
+
+## 💻 Monitoring fon (qor o‘rniga zamonaviy animatsiya)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</div>
+
+---
+
+## 🌊 Tolqinli banner
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Rahmat+Profilimga+Kirganingiz+uchun!&fontSize=20&fontColor=ffffff" />
+</div>
