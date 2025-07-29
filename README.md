@@ -1,5 +1,6 @@
 👋 Hi, I'm **Isroiljonov Biloldin** — a passionate **Python Backend Developer**!
-
+<link rel="stylesheet" href="snow.css">
+<div class="snow"></div>
 🌟 GitHub Star Level: `A+`
 🎯 Focused on backend technologies
 🔭 I’m currently working with Django, DRF, PostgreSQL
