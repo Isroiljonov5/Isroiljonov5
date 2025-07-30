@@ -28,7 +28,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isroiljonov5&show_icons=true&hide_border=true&theme=radical&custom_title=Biloldin's+Stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashidov21&show_icons=true&hide_border=true&theme=radical&custom_title=Biloldin's+Stats" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=biloldin&theme=radical&hide_border=true" width="47%" />
 </div>
 
@@ -37,7 +37,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rashidov21&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Isroiljonov5&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
