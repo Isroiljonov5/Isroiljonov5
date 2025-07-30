@@ -28,7 +28,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biloldin&show_icons=true&hide_border=true&theme=radical&custom_title=Biloldin's+Stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isroiljonov5&show_icons=true&hide_border=true&theme=radical&custom_title=Biloldin's+Stats" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=biloldin&theme=radical&hide_border=true" width="47%" />
 </div>
 
