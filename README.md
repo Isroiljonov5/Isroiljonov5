@@ -10,7 +10,7 @@
 ### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,mysql,git,kalilinux,bash&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,mysql,git,kali linux,bash&theme=light" />
 </div>
 
 ---
