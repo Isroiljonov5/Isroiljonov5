@@ -37,7 +37,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Isroiljonov5&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rashidov21&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
