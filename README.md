@@ -12,7 +12,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,mysql,git,kali_linux,bash&theme=light" />
 </div>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,mysql,git,bash&theme=light" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kali_Linux_2021_logo.svg/512px-Kali_Linux_2021_logo.svg.png" alt="Kali Linux" height="42" style="margin-left: 10px; vertical-align: middle;" />
+</div>
 ---
 
 ### 🧠 About Me
