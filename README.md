@@ -10,7 +10,7 @@
 ### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,mysql,git,kali,bash&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,sqllite,kali,bash&theme=light" />
 </div>
 
 ---
@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on Django-based backend APIs and automation tools.
 - 🌱 Currently revising core Python, learning advanced backend architectures.
-- 💬 Ask me about: `Python`, `Django`, `FastAPI`, `PostgreSQL`, `Linux`.
+- 💬 Ask me about: `Python`, `Django`, `FastAPI`, `Kali`.
 - 📫 How to reach me: isroiljonovbiloldin@gmail.com
 - ⚡ Fun fact: I love writing CLI tools and API wrappers in Python.
 
