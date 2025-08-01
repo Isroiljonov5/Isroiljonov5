@@ -10,7 +10,7 @@
 ### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,sqlite,kali,bash&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,django,rest-framework,js,html,css,sqlite,kali,bash&theme=light" />
 </div>
 
 ---
@@ -28,7 +28,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashidov21&show_icons=true&hide_border=true&theme=radical&custom_title=Biloldin's+Stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Isroiljonov5&show_icons=true&hide_border=true&theme=radical&custom_title=Biloldin's+Stats" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=biloldin&theme=radical&hide_border=true" width="47%" />
 </div>
 
@@ -37,7 +37,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rashidov21&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Isroiljonov5&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
@@ -57,8 +57,8 @@
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=rest-framework&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=kali&logoColor=black" /></a>
 </div>
 
 ---
